@@ -13,9 +13,27 @@ This project uses stacked circuit boards in a 125B enclosure with top I/O jacks.
 ## Included Files
 
 <ul>
-  <li><b>Gerber PCB Files</b> - packaged and ready to submit to your preferred PCB manufacturer.</li>
-  <li><b>PDF Build Document</b> - contains Bill of Materials, Drill Template, Schematic, and further details on the project.</li>
+  <li><b>PCB Gerber Files</b> - packaged and ready to submit to your preferred PCB manufacturer.
+    <ul>
+      <li>Top Board Gerber Files - zipped archive of Gerber files for the top PCB.</li>
+      <li>Bottom Board Gerber Files - zipped archive of Gerber files for the bottom PCB.</li>
+    </ul>
+  </li>
+  <li><b>PDF Build Document</b> - includes all of the following:
+    <ul>
+      <li>Bill of Materials (BOM)</li>
+      <li>125B Drill Template</li>
+      <li>Schematic</li>
+      <li>and project notes...</li>
+    </ul>
+  </li>
 </ul>
+
+## Tayda Drill Tool Template...
+
+We've also put together a drill template for this project using Tayda Electronics' enclosure drill tool.
+
+<a href="https://drill.taydakits.com/box-designs/new?public_key=cHRiVWQrdE1kSjhNWCtudks4U2daQT09Cg==">MOS-Tron Tayda Drill Tool Template</a>
 
 ## Build Pictures
 
