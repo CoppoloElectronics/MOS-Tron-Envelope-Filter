@@ -8,6 +8,8 @@ According to Dylan159, the Chewborg is designed around the familiar sounds of th
 
 No direct support is offered for issues faced when building this project. This project works as designed, but this project is not for first-time builders. There are plenty of projects that are better suited for beginners, this is not one of them.
 
+This project uses stacked circuit boards in a 125B enclosure with top I/O jacks. Some special parts are required, including low-profile electrolytic capacitors, special fasteners, and inline pin headers/sockets. Special care must be taken when handling the CD4007 IC as well because these ICs are notoriously sensitive to static electricity.
+
 ## Included Files
 
 <ul>
@@ -17,9 +19,15 @@ No direct support is offered for issues faced when building this project. This p
 
 ## Build Pictures
 
-Here are a few pictures of our personal build of this project.
-![IMG_1667](https://github.com/user-attachments/assets/0a6aedcb-9801-4fee-b176-ecdb7c89d1e7)
+Here are some pics of our personal build of this project:
 
+<img src="https://github.com/user-attachments/assets/0a6aedcb-9801-4fee-b176-ecdb7c89d1e7" width="15%"></img>
+<img src="https://github.com/user-attachments/assets/1b078ed7-06ee-4281-b898-4a407310dff8" width="15%"></img>
+<img src="https://github.com/user-attachments/assets/4b0182d0-398f-4626-8513-2b50a21f6019" width="15%"></img>
+<img src="https://github.com/user-attachments/assets/cc1f8630-428c-4157-bdb3-982ba34fce25" width="15%"></img>
+<img src="https://github.com/user-attachments/assets/1784104e-7e7b-422c-9762-f85405191706" width="15%"></img>
+<img src="https://github.com/user-attachments/assets/20b86745-f0fe-4ec6-bcdc-5d087b7a2024" width="15%"></img>
 
+*The Bypass I/O that you see in the build pictures is not related to this project and is not included in the Gerber files.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0; width:150px; height:auto" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
