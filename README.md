@@ -6,7 +6,7 @@ According to Dylan159, the Chewborg is designed around the familiar sounds of th
 
 ## Before you get started...
 
-No direct support is offered for issues faced when building this project. This project works as designed, but this project is not for first-time builders. There are plenty of projects that are better suited for beginners, this is not one of them.
+No direct support is offered for issues faced when building this project. This project works as designed, but this project is not for first-time builders. There are plenty of projects that are better suited for beginners, it's probably best not to choose this project if you're still getting a grasp for pedal building.
 
 This project uses stacked circuit boards in a 125B enclosure with top I/O jacks. Some special parts are required, including low-profile electrolytic capacitors, special fasteners, and inline pin headers/sockets. Special care must be taken when handling the CD4007 IC as well because these ICs are notoriously sensitive to static electricity.
 
