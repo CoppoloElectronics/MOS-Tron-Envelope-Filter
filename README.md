@@ -19,6 +19,8 @@ This project uses stacked circuit boards in a 125B enclosure with top I/O jacks.
   - 125B Drill Template
   - Schematic
   - and project notes...
+ 
+*This project requires two circuit boards, each of them must be ordered to complete this project.
 
 ## Tayda Drill Tool Template...
 
