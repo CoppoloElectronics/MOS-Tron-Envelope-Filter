@@ -28,6 +28,8 @@ Here's a template for this project's enclosure using Tayda Electronics' Drill To
 
 <a href="https://drill.taydakits.com/box-designs/new?public_key=cHRiVWQrdE1kSjhNWCtudks4U2daQT09Cg==">MOS-Tron Tayda Drill Tool Template</a>
 
+Adjust drill template as needed to accommodate the audio and DC jacks that you will use when building this project.
+
 ## Build Pictures
 
 Here are some pics of our personal build of this project:
