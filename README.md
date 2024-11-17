@@ -46,6 +46,6 @@ Here are some pics of our personal build of this project:
 <img src="https://github.com/user-attachments/assets/1784104e-7e7b-422c-9762-f85405191706" width="15%"></img>
 <img src="https://github.com/user-attachments/assets/20b86745-f0fe-4ec6-bcdc-5d087b7a2024" width="15%"></img>
 
-*The Bypass I/O that you see in the build pictures is not related to this project and is not included in the Gerber files.
+* The Bypass I/O that you see in the build pictures is not related to this project and is not included in the Gerber files. You may (or may not) notice that the enclosure pictured has an extra hole in the middle of the lower control set. That's because the wrong drill tool template was chosen at the time that this enclosure was ordered. The Tayda Drill Tool template linked above is the correct template.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0; width:150px; height:auto" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
