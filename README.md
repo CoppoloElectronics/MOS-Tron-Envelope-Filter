@@ -2,7 +2,7 @@
 
 Based on the Chewborg Envelope Filter by Dylan159 at <a href="https://www.freestompboxes.org/viewtopic.php?p=295935&sid=e7d8aaea46729323c06e2183b44c25a7#p295935">freestomboxes.org</a>, thank you Dylan!
 
-According to Dylan159, the Chewborg is designed around the familiar sounds of the most popular envelope filters of all time, but instead of being designed with LDRs, Vactrols, or JFETs, his design is based around using the CD4007’s matched CMOS FETs to form the state-variable filter. We’ve taken Dylan159’s clever design work and packaged it up into a 125B.
+According to Dylan159, the Chewborg is designed around the familiar sounds of the most popular envelope filters of all time, but instead of being designed with LDRs, Vactrols, or JFETs, his design is based around using the CD4007’s matched CMOS FETs to form the state-variable filter. This project takes Dylan159’s clever design work and packages it up into a 125B.
 
 ## Before you get started...
 
@@ -31,7 +31,7 @@ This project uses stacked circuit boards in a 125B enclosure with top I/O jacks.
 
 ## Tayda Drill Tool Template...
 
-We've also put together a drill template for this project using Tayda Electronics' enclosure drill tool.
+Here's a template for this project's enclosure using Tayda Electronics' Drill Tool utility:
 
 <a href="https://drill.taydakits.com/box-designs/new?public_key=cHRiVWQrdE1kSjhNWCtudks4U2daQT09Cg==">MOS-Tron Tayda Drill Tool Template</a>
 
